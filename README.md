@@ -1,4 +1,4 @@
-# Opptimizer Automatic
+# Opptimiz Automatic
 
 - Automatisation de l'outil Opptimiz dévelopé par le groupe EDF.
 
